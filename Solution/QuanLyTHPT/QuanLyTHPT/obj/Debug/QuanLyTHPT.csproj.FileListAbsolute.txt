@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\bin\Debug\QuanLyTHPT.exe.config
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\bin\Debug\QuanLyTHPT.exe
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\bin\Debug\QuanLyTHPT.pdb
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.frm_Start.resources
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.exe
+C:\Users\Admin\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.pdb
