@@ -37,5 +37,13 @@ namespace QuanLyTHPT
             frm.Close();
             frm.Dispose();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+               HOCSINHDATA.frmHocSinh frm = new HOCSINHDATA.frmHocSinh();
+               frm.ShowDialog();
+               frm.Close();
+               frm.Dispose();
+          }
     }
 }

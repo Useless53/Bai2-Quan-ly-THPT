@@ -64,6 +64,13 @@
       <DependentUpon>frmGiaoVien.cs</DependentUpon>
     </Compile>
     <Compile Include="GIAOVIENDATA\GIAOVIENDATA.cs" />
+    <Compile Include="HOCSINHDATA\frmHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOCSINHDATA\frmHocSinh.designer.cs">
+      <DependentUpon>frmHocSinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOCSINHDATA\HOCSINHDATA.cs" />
     <Compile Include="LOPDATA\frmLop.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +85,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GIAOVIENDATA\frmGiaoVien.resx">
       <DependentUpon>frmGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOCSINHDATA\frmHocSinh.resx">
+      <DependentUpon>frmHocSinh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LOPDATA\frmLop.resx">
       <DependentUpon>frmLop.cs</DependentUpon>

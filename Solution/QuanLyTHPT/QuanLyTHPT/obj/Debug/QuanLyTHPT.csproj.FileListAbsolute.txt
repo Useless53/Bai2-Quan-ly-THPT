@@ -41,3 +41,17 @@ C:\Users\vominhkhai\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanL
 C:\Users\vominhkhai\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csproj.CopyComplete
 C:\Users\vominhkhai\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.exe
 C:\Users\vominhkhai\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.pdb
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\bin\Debug\QuanLyTHPT.exe.config
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\bin\Debug\QuanLyTHPT.exe
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\bin\Debug\QuanLyTHPT.pdb
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csprojAssemblyReference.cache
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.frm_Start.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.GIAOVIENDATA.frmGiaoVien.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.HOCSINHDATA.frmHocSinh.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.LOPDATA.frmLop.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.Properties.Resources.resources
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csproj.GenerateResource.cache
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csproj.CoreCompileInputs.cache
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.csproj.CopyComplete
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.exe
+C:\Users\giang\OneDrive\Documents\GitHub\Bai2-Quan-ly-THPT\Solution\QuanLyTHPT\QuanLyTHPT\obj\Debug\QuanLyTHPT.pdb
