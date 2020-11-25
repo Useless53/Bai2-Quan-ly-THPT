@@ -62,22 +62,23 @@ insert into GiaoVien values
 go
 insert into HocSinh
 values
-('2012DH01',N'Lê Công Tuấn Anh','TH48','6/7/1994','',''),
-('2012DH04',N'Nguyễn Anh Dũng','TH48','6/7/1994','',''),
-('2012DH05',N'Nguyễn Trọng Thứ','XM48','6/7/1994','',''),
-('2012DH06',N'Lữ Văn Chung','XM48','6/7/1994','',''),
-('2012DH07',N'Tống Quyết Thắng','OTO48','6/7/1994','',''),
-('2012DH08',N'Bùi Quốc Huy','OTO48','6/7/1994','',''),
-('2012DH09',N'Phan Văn Thắng','DA48','6/7/1994','',''),
-('2012DH10',N'Đỗ Văn Cường','VK48','6/7/1994','','')
+('2012DH01',N'Lê Công Hoàng Anh','TH53','6/7/1999','',''),
+('2012DH04',N'Nguyễn Anh Dũng','TH53','6/7/1999','',''),
+('2012DH05',N'Nguyễn Trọng Quyết','XM53','6/7/1999','',''),
+('2012DH06',N'Lữ Văn Lâm','XM53','6/7/1999','',''),
+('2012DH07',N'Tống Quyết Thắng','OTO53','6/7/1999','',''),
+('2012DH08',N'Bùi Quốc Duy','OTO53','6/7/1999','',''),
+('2012DH09',N'Phan Văn Thắng','DA53','6/7/1999','',''),
+('2012DH10',N'Đỗ Văn Cường','VK53','6/7/1999','','')
+('2012DH05',N'Nguyễn Viết Thông','TH53','16/8/1999','',''),
 go
 insert into Lop
 values
-('TH48','MH01','GV001',2),
-('OTO48','MH01','GV002',2),
-('VK48','MH02','GV004',2),
-('XM48','MH03','GV007',2),
-('DA48','MH04','GV008',2)
+('TH53','MH01','GV001',2),
+('OTO53','MH01','GV002',2),
+('VK53','MH02','GV004',2),
+('XM53','MH03','GV007',2),
+('DA53','MH04','GV008',2)
 go
 alter table GiaoVien add constraint PK_GV primary key (ID_GiaoVien)
 alter table Lop add constraint PK_L primary key (ID_Lop)
