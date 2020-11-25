@@ -71,6 +71,7 @@ values
 ('2012DH09',N'Phan Văn Thắng','DA53','6/7/1999','',''),
 ('2012DH10',N'Đỗ Văn Cường','VK53','6/7/1999','','')
 ('2012DH05',N'Nguyễn Viết Thông','TH53','16/8/1999','',''),
+('2012DH05',N'Nguyễn Trọng Linh','TH53','26/7/1998','',''),
 go
 insert into Lop
 values
