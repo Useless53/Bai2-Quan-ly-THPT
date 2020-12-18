@@ -22,6 +22,12 @@ namespace QuanLyTHPT
           
         }
 
-       
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            LOPDATA.frmLop frm = new LOPDATA.frmLop();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
+        }
     }
 }
