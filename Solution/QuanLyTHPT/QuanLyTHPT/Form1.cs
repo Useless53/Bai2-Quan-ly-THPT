@@ -29,5 +29,13 @@ namespace QuanLyTHPT
             frm.Close();
             frm.Dispose();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            GIAOVIENDATA.frmGiaoVien frm = new GIAOVIENDATA.frmGiaoVien();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
+        }
     }
 }
